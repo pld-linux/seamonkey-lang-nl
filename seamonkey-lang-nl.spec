@@ -4,12 +4,12 @@
 Summary:	Dutch resources for SeaMonkey
 Summary(pl.UTF-8):	Holenderskie pliki językowe dla SeaMonkeya
 Name:		seamonkey-lang-%{_lang}
-Version:	1.1.12
+Version:	1.1.13
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
-# Source0-md5:	7ea7b602fb302d7a41aed13c9eeb542b
+# Source0-md5:	f405bf0167800fcdb0d53f2772c26616
 Source2:	gen-installed-chrome.sh
 URL:		http://www.seamonkey-project.org/
 BuildRequires:	unzip
